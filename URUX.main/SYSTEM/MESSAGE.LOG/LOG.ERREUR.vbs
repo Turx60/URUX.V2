@@ -1,0 +1,1 @@
+MsgBox "Le chemin n'est pas reconnu par Python", vbInformation, "WINDOWS POWERSHELL"
